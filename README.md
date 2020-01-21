@@ -1,1 +1,1 @@
-# week6-day2
+#  APIs and Ajax
