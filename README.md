@@ -7,3 +7,4 @@ When we make a request to a server-side API, we have no control over how long th
 ## Tools
 * JSON
 * Ajax
+* HTTP GET requests
